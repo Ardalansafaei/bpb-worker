@@ -1,0 +1,6 @@
+name = "bpb-worker"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+
+[vars]
+UUID = "6b6ef5aa-326a-4557-945f-3f3370ff180a"
